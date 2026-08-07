@@ -20,7 +20,8 @@ import type { DefaultTheme } from 'vitepress'
 
 export const meta = {
   name: 'Free Monsy Heck Yeah',
-  description: 'An unofficial mirror of FMHY. Not affiliated with fmhy.net.',
+  description:
+    'The largest collection of free stuff on the internet! Unofficial instance, forked from fmhy.net.',
   hostname: 'https://fmhy.monsy.monster',
   keywords: ['stream', 'movies', 'gaming', 'reading', 'anime'],
   build: {
