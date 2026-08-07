@@ -2,11 +2,11 @@
 title: Free Monsy Heck Yeah
 titleTemplate: false
 layout: home
-description: An unofficial mirror of FMHY. Not affiliated with fmhy.net.
+description: The largest collection of free stuff on the internet! Unofficial instance, forked from fmhy.net.
 
 hero:
   name: Free Media Heck Yeah
-  tagline: An unofficial mirror of FMHY. Not affiliated with fmhy.net.
+  tagline: The largest collection of free stuff on the internet! Unofficial instance, forked from fmhy.net.
   announcement:
     title: August Updates ✨
     link:  /posts/aug-2026
