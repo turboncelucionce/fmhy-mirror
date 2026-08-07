@@ -1,11 +1,11 @@
 ---
 title: Welcome
 layout: home
-description: The largest collection of free stuff on the internet!
+description: An unofficial mirror of FMHY. Not affiliated with fmhy.net.
 
 hero:
-  name: freemediaheckyeah
-  tagline: The largest collection of free stuff on the internet!
+  name: Free Monsy Heck Yeah
+  tagline: An unofficial mirror of FMHY. Not affiliated with fmhy.net.
   announcement:
     title: August Updates ✨
     link:  /posts/aug-2026
