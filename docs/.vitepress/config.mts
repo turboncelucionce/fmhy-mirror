@@ -26,9 +26,9 @@ import { replaceNoteLink } from './utils/markdown'
 
 const baseUrl = process.env.GITHUB_ACTIONS ? '/edit' : '/'
 export default defineConfig({
-  title: 'FMHY',
+  title: 'Free Monsy Heck Yeah',
   description: meta.description,
-  titleTemplate: ':title • freemediaheckyeah',
+  titleTemplate: ':title • Free Monsy Heck Yeah',
   lang: 'en-US',
   lastUpdated: false,
   cleanUrls: true,
