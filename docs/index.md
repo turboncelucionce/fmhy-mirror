@@ -1,10 +1,11 @@
 ---
-title: Welcome
+title: Free Monsy Heck Yeah
+titleTemplate: false
 layout: home
 description: An unofficial mirror of FMHY. Not affiliated with fmhy.net.
 
 hero:
-  name: Free Monsy Heck Yeah
+  name: Free Media Heck Yeah
   tagline: An unofficial mirror of FMHY. Not affiliated with fmhy.net.
   announcement:
     title: August Updates ✨
