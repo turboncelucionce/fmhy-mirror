@@ -116,7 +116,7 @@ export const socialLinks: DefaultTheme.SocialLink[] = [
 
 export const nav: DefaultTheme.NavItem[] = [
   { text: '📑 Changelog', link: '/posts/changelog-sites' },
-  { text: '📖 Glossary', link: 'https://rentry.org/The-Piracy-Glossary' },
+  { text: '📖 Glossary', link: 'https://fluffle.cc/piracyglossary' },
   {
     text: '💾 Backups',
     link: '/other/backups'
@@ -126,7 +126,10 @@ export const nav: DefaultTheme.NavItem[] = [
     items: [
       { text: '🌐 Search', link: '/posts/search' },
       { text: '❓ FAQs', link: '/other/FAQ' },
-      { text: '🔖 Bookmarks', link: 'https://github.com/fmhy/bookmarks' },
+      {
+        text: '🔖 Bookmarks',
+        link: 'https://github.com/mian196/fmhy-bookmarks-extension'
+      },
       { text: '✅ SafeGuard', link: 'https://github.com/fmhy/FMHY-SafeGuard' },
       { text: '🚀 Startpage', link: '/startpage' },
       { text: '🔎 SearXNG', link: 'https://searx.fmhy.net/' },
