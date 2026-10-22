@@ -75,10 +75,10 @@
 * [⁠bigger.pics](https://bigger.pics/) - Image Upscaling / Web
 * [Bigjpg](https://bigjpg.com/) - Image Upscaling / Web
 * [Crisp Photos](https://crisp.photos/) - Image Upscaling / Web
-* [⁠Upscal](https://upscal.app/) - Image Upscaling / Web
+* [⁠Upscal](https://upscal.app/) - Image Upscaling / Windows, macOS
 * [Final2x](https://github.com/Tohrusky/Final2x) - Image Upscaling / Self-Hosted
 * [Lossless Scaling](https://fmhy.net/gaming#download-games) (search) - Image Upscaling
-* [imgupscaler](https://imgupscaler.com/) - Image Upscaling / Web
+* [ImgUpscaler](https://imgupscaler.com/) - Image Upscaling / Web
 * [QualityScaler](https://github.com/Djdefrag/QualityScaler) - Image & Video Upscaling / Windows
 * [resdet](https://github.com/0x09/resdet) - Detect Source Resolution of Upscaled Images / Windows, macOS, Linux
 
@@ -449,6 +449,7 @@
 * [PhyloPic](https://www.phylopic.org/) - Animal Silhouettes
 * [iwaria](https://iwaria.com/) - African Photos
 * [twnsnd](https://nos.twnsnd.co/) - Vintage Photos / Public Domain
+* [Common Clip](https://commonclip.com/) - Vintage Photos / Artwork / Public Domain
 * [PNGIMG](https://pngimg.com/) or [stickpng](https://www.stickpng.com/) - PNG Photos / Noncommercial License
 * [gfxmountain](https://gfxmountain.com/stock-photos/) - Stock Photo Collections
 * [freepikuz_pro](https://t.me/freepikuz_pro) - FreePik Downloader
@@ -464,7 +465,7 @@
 
 ## ▷ Art / Illustrations
 
-* ↪️ **[Digital Art Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_art_collections)**
+* ↪️ **[Digital Art Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_art_galleries_.2F_collections)**
 * ⭐ **[ArtStation](https://www.artstation.com/)** - Online Art Gallery / Fanart
 * ⭐ **[Pixiv](https://www.pixiv.net/)** - Japanese Fanart
 * ⭐ **Pixiv Tools** - [Downloader](https://github.com/Nandaka/PixivUtil2), [2](https://github.com/xuejianxianzun/PixivBatchDownloader) / [Rankings](https://pixiv.navirank.com/) / [Official Frontend](https://pixiv.perennialte.ch/) / [Frontend List](https://pixivfe-docs.pages.dev/instance-list/) / [Preview](https://github.com/NightLancer/PixivPreview), [2](https://github.com/ppixiv/ppixiv) / [Android](https://github.com/Notsfsssf/pixez-flutter/blob/master/.github/README_en.md)
@@ -556,7 +557,7 @@
 ## ▷ 3D Modeling Apps
 
 * ⭐ **[Blender](https://www.blender.org/)** - FOSS 3D Modeling App / [Forums](https://blenderartists.org/) / [Source Code](https://projects.blender.org/blender/blender)
-* ⭐ **Blender Tools** - [Resources](https://awesome-blender.netlify.app/), [GitHub](https://github.com/agmmnn/awesome-blender) / [Extensions](https://extensions.blender.org/) / [Communities](https://www.blender.org/community/) / [Addons](https://t.me/BlenderUniverse/3) / [Plugins](https://t.me/blenderplugs) / [Textures](https://github.com/carson-katri/dream-textures) / [Renderer](https://github.com/prman-pixar/RenderManForBlender) / [3D Nodes](https://t.me/geometrynodes) / [AI Render](https://github.com/benrugg/AI-Render)
+* ⭐ **Blender Tools** - [Resources](https://awesome-blender.netlify.app/), [GitHub](https://github.com/agmmnn/awesome-blender) / [Extensions](https://extensions.blender.org/) / [Communities](https://www.blender.org/community/) / [Addons](https://t.me/BlenderUniverse/3) / [Plugins](https://t.me/blenderplugs) / [Textures](https://github.com/carson-katri/dream-textures) / [Client Manager](https://victor-ix.github.io/Blender-Launcher-V2/) / [Renderer](https://github.com/prman-pixar/RenderManForBlender) / [3D Nodes](https://t.me/geometrynodes) / [AI Render](https://github.com/benrugg/AI-Render)
 * ⭐ **[MCprep](https://theduckcow.com/dev/blender/mcprep/)** - All-in-one Minecraft Blender Addon / [Discord](https://discord.com/invite/mb8hBUC) / [GitHub](https://github.com/Moo-Ack-Productions/MCprep)
 * [Meshy.ai](https://www.meshy.ai/) / [Discord](https://discord.com/invite/KgD5yVM9Y4), [⁠Tripo Studio](https://studio.tripo3d.ai/) (temp mail) or [TRELLIS](https://trellis3d.github.io/) / [GitHub](https://github.com/microsoft/TRELLIS) / [Hugging Face](https://huggingface.co/spaces/trellis-community/TRELLIS) - AI 3D Model Generators
 * [VFXmed](https://www.vfxmed.com/) - Blender Addons

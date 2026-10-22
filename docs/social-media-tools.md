@@ -40,6 +40,7 @@
 * ⭐ **[Disblock Origin](https://codeberg.org/AllPurposeMat/Disblock-Origin)** or [Discord Adblock](https://codeberg.org/ridge/Discord-AdBlock) - Hide Nitro + Boost Ads
 * ⭐ **[OpenAsar](https://openasar.dev/)** - Better Performance with Improved `app.asar` / [Discord](https://discord.gg/YDMptE8u2b) / [GitHub](https://github.com/GooseMod/OpenAsar) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/openasar.md)
 * [⁠Nelly](https://nelly.tools/) or [Discorder](https://discorder.tools/) - Discord Web Tools
+* [Discord Markdown](https://discord-md.vercel.app/) - Discord Markdown / Formatting Guide / [GitHub](https://github.com/Hacksore/discord-md)
 * [Discorch](https://discorch.org/) / [Source Code](https://codeberg.org/discorch/discorch), [Discrub](https://github.com/prathercc/discrub) or [Undiscord](https://github.com/victornpb/undiscord/) - Message Manipulation Tools / Always Delay 9+ Seconds
 * [AnswersOverflow](https://www.answeroverflow.com/) - Discord Search Engine / [GitHub](https://github.com/AnswerOverflow/AnswerOverflow)
 * [Discord Profile Viewer](https://addynrpfp.vercel.app/) - View / Download Discord User's Avatar or Banner
@@ -60,7 +61,7 @@
 * [BetterTwitFix](https://github.com/dylanpdx/BetterTwitFix) - Fix X.com / Telegram Embeds
 * [axinstagram](https://axinstagram.com/) - Fix Instagram Embeds / [GitHub](https://github.com/edideaur/axinstagram/)
 * [⁠fxTikTok](https://github.com/okdargy/fxTikTok) - Fix TikTok Embeds
-* [Discord Packages](https://github.com/peterhanania/discord-package) - View Discord Packages / Self-Host for Privacy / [Discord](https://discordpackage.com/discord)
+* [Discord Packages](https://github.com/peterhanania/discord-package) - View Discord Packages / Set Account Language English / Self-Host for Privacy / [Discord](https://discordpackage.com/discord)
 * [Hammertime](https://hammertime.cyou/), [Dank.tools](https://dank.tools/discord-timestamp), [⁠DiscTimestamps](https://disctimestamps.com/), [discordtimestampgenerator.net](https://discordtimestampgenerator.net/) or [discord-timestamps](https://r.3v.fi/discord-timestamps/) - Discord Timestamp Generators
 * [TagMap](https://tagmap.io/) - Meet People with Similar Interests
 
@@ -118,6 +119,7 @@
 * [⁠Embedded](https://embedded.gallery/) / [Discord](https://discord.com/invite/Be9yDnBPBw), [FixEmbed](https://fixembed.app/) / [GitHub](https://github.com/kenhendricks00/FixEmbed) or [⁠Embed Fixer](https://github.com/seriaati/embed-fixer) - Discord Embed Fix Bots
 * [esmBot](https://github.com/esmBot/esmBot) - Multi-Tool Discord Bot
 * [NotQuiteNitro](https://nqn.blue/) - Discord Nitro Alternative
+* [Kenku FM](https://www.kenku.fm/) - Listen Together / Listening Parties / [GitHub](https://github.com/owlbear-rodeo/kenku-fm)
 * [fmbot](https://fm.bot/) - Discord Voice Chat Scrobbling
 * [Chuu](https://github.com/ishwi/Chuu) - Last.fm Discord Bot
 * [Craig](https://craig.chat/) - Voice Channel Recorder Bot / [Backup](https://craig.chat/giarc/)
@@ -416,7 +418,7 @@
 * ⭐ **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** / [Commands](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) / [Discord](https://discord.gg/H5MNcFW63r) or [YTDL-PATCHED](https://github.com/ytdl-patched/ytdl-patched) - YT-DL CLIs / TUIs
 * ⭐ **[YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)** - YouTube Downloader App
 * [Stacher](https://stacher.io/), [Cube YouTube Downloader](https://github.com/database64128/youtube-dl-wpf) or [Open Video Downloader](https://github.com/jely2002/youtube-dl-gui) - YT-DL GUIs
-* [⁠YT1s](https://yt1s.com.co/), [CNVMP3](https://cnvmp3.com/) / [Subreddit](https://www.reddit.com/r/cnvmp3) or [AudioFetcher (MP4)](https://audiofetcher.com/) / [Subreddit](https://www.reddit.com/r/AudioFetcherHQ/) / [Discord](https://discord.com/invite/DFZaejcJfg) - Online YT-DL Downloaders
+* [⁠YT1s](https://yt1s.com.co/), [CNVMP3](https://cnvmp3.com/) / [Subreddit](https://www.reddit.com/r/cnvmp3) or [AudioFetcher (MP4)](https://audiofetcher.com/) / [Discord](https://discord.gg/DFZaejcJfg) - Online YT-DL Downloaders
 * [⁠Wayback YouTube](https://www.waybackyt.download/) - Download Deleted YouTube Videos via Wayback Machine
 * [Pinchflat](https://github.com/kieraneglin/pinchflat), [MeTube](https://github.com/alexta69/metube), [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) or [yt-dlp Web UI](https://github.com/marcopiovanello/yt-dlp-web-ui) - Self-Hosted YT-DLP
 * [ytarchive](https://github.com/Kethsar/ytarchive) - YouTube Livestream Downloader
@@ -670,7 +672,6 @@
 # ► Tumblr Tools
 
 * [Tumlook](https://www.tumlook.com/), [Tumgik](https://www.tumgik.com/) or [PriviBlur](https://github.com/syeopite/priviblur) - Tumblr Frontends
-* [Pillowfort](https://www.pillowfort.social/) - Tumblr Alternatives
 * [tumblr-utils](https://github.com/cebtenzzre/tumblr-utils) - Tumblr Utilities
 * [XKit](https://github.com/AprilSylph/XKit-Rewritten) - Tumblr Enhancement Extension
 * [tumbex](https://www.tumbex.com/) - Tumblr Search

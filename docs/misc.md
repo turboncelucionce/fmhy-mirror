@@ -14,7 +14,6 @@
 * ⭐ **[CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461)** - Game Site Index
 * ⭐ **[Dan's Guides](https://rentry.co/danxyz7)** - List of Guides by Dan
 * ⭐ **[privateersclub](https://privateers.wiki/)** - Game Site Index / [Discord](https://discord.gg/jz8dUnnD6Q)
-* ⭐ **[Ripped](https://ripped.guide/)** - Site Index / [Discord](https://discord.com/invite/6qVr2aR)
 * ⭐ **[Wotaku](https://wotaku.wiki/)** - Otaku Index / [Discord](https://discord.gg/vShRGx8ZBC)
 * ⭐ **[EverythingMoe](https://everythingmoe.com/)** - Otaku Media Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
 * ⭐ **[The Index](https://theindex.moe)** - Japanese Site Index / Bookmarking Site / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox)
@@ -30,6 +29,7 @@
 * [Store.app](https://store.app/), [NoSignups](https://nosignups.net/) / [GitHub](https://github.com/BraveOPotato/FckSignups), [SaaS Discovery](https://saasdiscovery.com/) or [Electron](https://www.electronjs.org/apps) - Web App Indexes
 * [⁠JustIndex](https://justindex.cc/) - Otaku Index / [Mirrors](https://projectjust.xyz/) / [Subreddit](https://www.reddit.com/r/ProjectJust) / [Discord](https://discord.gg/P3yqksmGun)
 * [ibiblio](https://www.ibiblio.org/) - Site / Tool Index
+* [Ripped](https://ripped.guide/) - Site Index / [Discord](https://discord.com/invite/6qVr2aR)
 * [unapothecary's terminal](https://unapothecary.neocities.org/websites) - Site / Tool Index
 * [mw.rat.bz](https://mw.rat.bz/index.html) - Site / Tool Index
 * [OneMillionScreenshots](https://onemillionscreenshots.com/) - Website Snapshot Map
@@ -338,10 +338,10 @@
 * 🌐 **[/sport calendars/](https://rentry.co/sportcalendars)** - Sports Schedules for Digital Caldendars
 * 🌐 **[Sports Games](https://rentry.co/c7zwkv9t)** - Mock Sports Draft Game Index
 * ↪️ **[Live Sports](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_live_sports)** / **[Replays](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_sports_replays)**
+* ⭐ **[The Athletic](https://www.nytimes.com/athletic/)** - Sports News / [Bypass Paywall](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_paywall_bypass) / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search)
 * [Slated](https://bandzz.slatedtv.workers.dev/) or [⁠EntertainMe](https://www.entertainme.fun/) - Sports Calendars / Schedules
 * [Sofascore](https://www.sofascore.com/) or [⁠FlashScore](https://www.flashscore.com/) - Sport Scores, Standing & Schedules
 * [⁠Sports Reference](https://www.sports-reference.com/) or [Opta Analyst](https://theanalyst.com/) - Sports Stats / Analytics
-* [The Athletic](https://www.nytimes.com/athletic/) - Sports News / [Bypass Paywall](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_paywall_bypass) / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search)
 * [⁠spotrac](https://www.spotrac.com/) - Sports Financial Database / Contracts
 * [The Number Wall](https://thenumberwall.com/) - Jersey Number Database
 * [⁠PROGRID](https://www.progrid.org/) - NFL Calendar / Schedule Chart
@@ -433,6 +433,7 @@
 * [⁠Opportunity Atlas](https://www.opportunityatlas.org/) - Interactive Future Success Impact Map
 * [Linguistic Maps](https://muturzikin.com/countries.htm) - World Linguistic Maps
 * [Freedom House](https://freedomhouse.org/explore-the-map) or [Civicus Monitor](https://monitor.civicus.org/) - Freedom Maps
+* [⁠FireMap](https://www.firemap.live/) - Wildfire Map / Tracker / [X](https://x.com/disaster_db)
 * [Fires Near Me Australia](https://play.google.com/store/apps/details?id=au.gov.nsw.rfs.firesnearme.national) - Australian Bush Fires Map / Tracker / Android
 * [⁠CrashAtlas](https://crashatlas.com/) - Aviation Accident Database / Map
 * [Skimap.org](https://skimap.org/) - Detailed Ski Maps
@@ -948,7 +949,7 @@
 * ⭐ **[4-Day Week](https://4dayweek.io/)** - Find Jobs with 4-Day Weeks
 * [OnSites](https://www.onsites.fyi/) - View / Share Interview Experiences
 * [50WaysToGetAJob](https://50waystogetajob.com/) - Interactive Job Search Guide
-* [⁠Welcome To The Jungle](https://www.welcometothejungle.com/), [JobBoardSearch](https://jobboardsearch.com/), [⁠HiringCafe](https://hiringcafe.com/), [JobsFromSpace](https://www.jobsfromspace.com/), [CyberCoders](https://www.cybercoders.com/), [whoishiring](https://whoishiring.io/), [Toby Tools](https://rentry.co/qnu6x), [The Muse](https://www.themuse.com/search/), [Indeed](https://www.indeed.com/) or [EuroJobs](https://eurojobs.com/) - Job Search
+* [⁠Welcome To The Jungle](https://www.welcometothejungle.com/), [JobBoardSearch](https://jobboardsearch.com/), [⁠HiringCafe](https://hiringcafe.com/), [JobsFromSpace](https://www.jobsfromspace.com/), [CyberCoders](https://www.cybercoders.com/), [whoishiring](https://whoishiring.io/), [⁠freehire](https://freehire.me/) / [GitHub](https://github.com/strelov1/freehire), [Toby Tools](https://rentry.co/qnu6x), [The Muse](https://www.themuse.com/search/), [Indeed](https://www.indeed.com/) or [EuroJobs](https://eurojobs.com/) - Job Search
 * [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) - Find Straightforward Hiring Processes
 * [RolePad](https://rolepad.com/) or [JobSync](https://github.com/Gsync/jobsync) - Job Search Managers
 * [DoorsOpen](https://www.doorsopen.co/) - Music Industry Jobs
@@ -1535,7 +1536,7 @@
 ## ▷ Image / Video
 
 * ↪️ **[YouTube Search / Archives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_youtube_search)**
-* ↪️ **[Digital Art Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_art_collections)**
+* ↪️ **[Digital Art Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_art_galleries_.2F_collections)**
 * ↪️ **[Image Creation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25BA_image_creation)**
 * ↪️ **[ASCII Art](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_ascii_art)**
 * ↪️ **[Art / Illustrations](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_art_.2F_illustrations)**
@@ -1709,6 +1710,7 @@
 * [⁠Beat Battle](https://beat-battle.net/) - Browser Beat Battle Game
 * [Pianos.pub](https://pianos.pub/) - Find Public Pianos
 * [danielx](https://danielx.net/composer/) or [AMS](https://flyx.org/ams/) - Mario Paint Composer Ports / [Archive](https://archive.org/details/mariopaintcomposer_201609)
+* [⁠Gesture Synth](https://gesturesynth.com/) - Interactive Gesture-Based Audio Synth
 * [Typatone](https://www.typatone.com/) - Play Music by Typing
 * [Blossom](https://blossom.alexbainter.com/) - Create Sounds via Clicks
 * [Drawing Garden](https://drawing.garden/) - Create Sounds via Mouse Movement
@@ -1849,10 +1851,11 @@
 ## ▷ Random
 
 * ↪️ **[Random Sites / Discovery](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_random_sites_.2F_discovery)**
-* ⭐ **[Neal.fun](https://neal.fun/)** - Toys / Games
+* ⭐ **[TheOnion](https://theonion.com/)** - Satirical News Articles
 * ⭐ **[Copypasta Text](https://copypastatext.com/)** - Copypasta Databases
 * ⭐ **[CreepyPasta](https://www.creepypasta.com/)** - Creepypasta Database
-* ⭐ **[TheOnion](https://theonion.com/)** - Fake News Articles
+* ⭐ **[⁠Trollpasta Wiki](https://trollpasta.com/wiki/Trollpasta_Wiki)** - Trollpasta Database / Wiki
+* ⭐ **[Neal.fun](https://neal.fun/)** - Toys / Games
 * ⭐ **[Uncyclopedia](https://en.uncyclopedia.co/)** - Wikipedia Parody
 * ⭐ **[WhatBeatsRock](https://www.whatbeatsrock.com/)** - Guess What Beats What
 * ⭐ **[Library of Babel](https://libraryofbabel.info/)** - Every Book of Past, Present, and Future
@@ -1890,9 +1893,10 @@
 * [Things to Do](https://randomthingstodo.com/) or [TheZen](https://thezen.zone/) - Activity Suggestions
 * [Scattergories](https://swellgarfo.com/scattergories) - Scattergories List Generator
 * [⁠Jerma Sites](https://jerma.io/) or [Jerma](https://www.jerma.org/) - Jerma Resources / Content Sites
-* [Color Arena](https://color-arena.agpallav.com/) - Best Color Voting
-* [ColorNames](https://colornames.org/) - Help Name Colors
+* [⁠Color Names](https://names.color.pizza/) - Interactive Human-Named Color Browser
+* [colornames](https://colornames.org/) - Help Name Colors
 * [Colorword](https://colorword.recu3125.com/) - Word Color Voting
+* [Color Arena](https://color-arena.agpallav.com/) - Best Color Voting
 * [Gizoogle](https://www.gizoogle.net/) - Google Shiznit
 * [Presence](https://presence.mrarich.com/) - Unwrap Presents Remotely
 * [Lots of Links](https://annierau.com/LOL-lots-of-links) - Random Funny Links

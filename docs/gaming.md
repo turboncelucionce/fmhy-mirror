@@ -58,6 +58,7 @@
 * ⭐ **[KaOsKrew](https://kaoskrew.org/)** - Download / [Redirect Bypass](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass) / [Discord](https://discord.com/invite/WF2pqPTFBs)
 * [DODI Repacks](https://rentry.co/FMHYB64#dodi) - Torrent / [Redirect Bypass](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass) / [Discord](https://discord.gg/D9WU7C9FSE) / **[Site Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/dodi-warning.md)**
 * [Elamigos](https://elamigos.site/) - Download
+* [⁠Klisza](https://klisza.uk/) - Download / ROM Repacks
 * [Xatab Repacks](https://byxatab.com/) - Torrent / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
 * [Gnarly Repacks](https://rentry.co/FMHYB64#gnarly) - Download / PW: `gnarly`
 * [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site/) - Download / [Discord](https://discord.gg/693hNBdymb)
@@ -373,6 +374,7 @@
 * [PICOwesome](https://rentry.co/FMHYB64#picowesome) - PICO-8 ROMs
 * [POP Unofficial Website](https://popuw.com/) - Prince of Persia ROMs / Mods
 * [⁠FFHacktics](https://ffhacktics.com/smf/) - Final Fantasy Tactics Mods / [Discord](https://discord.gg/xpXa8VEV2k)
+* [Castlevania: The Inverted Dungeon](https://www.inverteddungeon.com/index.php?section=fanworks) - Castlevania Fan Games + Mods
 * [SAGE](https://sagexpo.org/) / [Discord](https://discord.sonicfangameshq.com/) or [Sonic Retro](https://forums.sonicretro.org/) / [GitHub](https://github.com/sonicretro/) - Sonic Fan Games + Mods
 * [Mega Man Maker](https://megamanmaker.com/) - Create Mega Man Levels
 
@@ -386,11 +388,13 @@
 * [Homebrew Hub](https://hh.gbdev.io/) - Homebrew ROMs / NES / Game Boy
 * [64DD.org](https://64dd.org/) - ROMs / 64DD
 * [NSWGame](https://nswgf.com/) - ROMs / DS / 3DS / Switch / Wii / WiiU / Avoid PC Games
+* [Tensearch](https://tensear.ch/) - ROMs / Switch
 * [ROMSLAB](https://romslab.com/) - ROMs / Switch / [Telegram](https://t.me/GameCentrala) / [Discord](https://discord.com/invite/MmTjxwYvG9)
 * [NXbrew](https://nxbrew.net/) - ROMs / Switch
 * [NSWPURE](https://nswpure.com/) - ROMs / Switch
 * [GNS](https://rentry.co/FMHYB64#gns) - ROMs / Switch / Requires Telegram
 * [RomSim](https://romsim.net/) - ROMs / Switch
+* [nswvault](https://nswvault.com/) - ROMs / Switch
 * [SmallGames](https://smallgames.ch/) - ROMs / Switch / [Discord](https://discord.com/invite/rgttByzYRY)
 * [⁠NSWTL](https://nswtl.info/) - ROMs / Switch / Torrents / Requires Telegram
 * [N R](https://nintendoroms.xyz/) - ROMs / Switch / 3DS / Wii / GCN / Requires Telegram / [Telegram](https://t.me/+VhTgmHwgmNk1NjY0)
@@ -858,6 +862,7 @@
 * [TagPro](https://tagpro.koalabeast.com/) - Multiplayer Capture the Flag / [Discord](https://discord.com/invite/hhW3MDzrt3)
 * [Bloob.io](https://bloob.io/) - Multiple Games
 * [Yucata](https://www.yucata.de/en/) - Multiple Games
+* [⁠GaleraGames](https://galeragames.com/) - Multiple Games
 * [Foony](https://foony.com/) - Multiple Games
 * [Pixoguess](https://pixoguess.com/) - Guess Pixelated Images / [Discord](https://discord.gg/Rbu8uGCyM6)
 * [Tensor Trust](https://tensortrust.ai/) - AI Prompting Multiplayer Skill Game / [Discord](https://discord.com/invite/9R2PaHf4RG)

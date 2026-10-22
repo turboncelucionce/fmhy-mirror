@@ -14,12 +14,11 @@
 * ↪️ **[YouTube Music Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_youtube_music)**
 * ⭐ **[⁠Limusic](https://simohypers.github.io/limusic/)** - YouTube Music Client / Windows, macOS, Linux / [GitHub](https://github.com/SimoHypers/limusic)
 * [Sonora](https://sonorahq.org/) - YouTube Music Client / [Discord](https://discord.gg/a8N8Tx23rV) / [GitHub](https://github.com/nolight132/sonora)
-* [WAVE](https://waveapp.pages.dev/) - YouTube Music Client / FLAC / [GitHub](https://github.com/ayman708-UX/WAVE)
 * [Pear Desktop](https://github.com/pear-devs/pear-desktop) - YouTube Music Client / [Ad-Block Guide](https://github.com/pear-devs/pear-desktop/issues/4531)
 * [BeatBoss](https://beatboss.thevolecitor.qzz.io/) - Cross-Platform Plugin-Based Player / [Web App](https://beatboss-web.thevolecitor.qzz.io/) / [GitHub](https://github.com/TheVolecitor/BeatBoss) / [Discord](https://discord.gg/85jnfZGfV5)
 * [yewtube](https://github.com/mps-youtube/yewtube) - YouTube Music Client
 * [⁠Volta](https://volta-music.com/) - Streaming / [Discord](https://discord.com/invite/HBuCQyBqE2)
-* [pulse](https://473999.net/pulse) or [Beatsync](https://www.beatsync.gg/) / [GitHub](https://github.com/freeman-jiang/beatsync) - Listen Together / Listening Parties
+* [pulse](https://473999.net/pulse), [Kenku FM](https://www.kenku.fm/) / [GitHub](https://github.com/owlbear-rodeo/kenku-fm) or [Beatsync](https://www.beatsync.gg/) / [GitHub](https://github.com/freeman-jiang/beatsync) - Listen Together / Listening Parties
 * [BetterSoundcloud](https://alirezakj.com/bsc/) - Soundcloud Client / Ad-Free / [GitHub](https://github.com/AlirezaKJ/BetterSoundCloud)
 * [Nuclear](https://nuclearplayer.com/) - Streaming / [Discord](https://discord.com/invite/JqPjKxE) / [GitHub](https://github.com/nukeop/nuclear)
 * [FunkWhale](https://funkwhale.audio/) - Decentralized Streaming Platform
@@ -178,13 +177,14 @@
 ## ▷ Ambient / Relaxation
 
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_android_relaxation)** / **[iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android/#wiki_.25B7_ios_relaxation)** - Ambient / Relaxation Mobile Apps
-* ⭐ **[Drone Zone](https://somafm.com/player/#/now-playing/dronezone)**, **[NTS Slow Focus](https://www.nts.live/infinite-mixtapes/slow-focus)** or **[Music For Programming](https://musicforprogramming.net/latest/)**, [⁠Hearts of Space](https://www.hos.com/) - Ambient Music Stations / Playlists
+* ⭐ **[Drone Zone](https://somafm.com/player/#/now-playing/dronezone)**, **[NTS Slow Focus](https://www.nts.live/infinite-mixtapes/slow-focus)** or **[Music For Programming](https://musicforprogramming.net/latest/)** - Ambient Music Stations / Playlists
 * ⭐ **[myNoise](https://mynoise.net/)** - Customizable Ambient Sound Mixer
 * ⭐ **[Rainy Mood](https://www.rainymood.com/)** - Ambient Rain
 * [Rainbow Hunt](https://rainbowhunt.com/) - Ambient Rain
 * [Pluvior](https://pluvior.com/) - Ambient Rain
 * [Rainyscope](https://rainyscope.com/) - Ambient Rain
 * [FlowTunes](https://www.flowtunes.app/) - Customizable Ambient Sound Mixer
+* [⁠NoiseLoop](https://noiseloop.app/) - Customizable Ambient Sound Mixer
 * [ambiphone](https://ambiph.one/) or [Moodist](https://moodist.mvze.net/) - Simple Ambient Sound Mixers
 * [Ambie](https://ambieapp.com/) - Ambient Sound Mixer / App / [GitHub](https://github.com/jenius-apps/ambie)
 * [Click Bath](https://hamishlang.github.io/clickbath/) - Ambient Sound Mixer with Customizable Musical Scale / Instruments
@@ -402,7 +402,7 @@
 * [vdwn.cloud](https://vdwn.cloud/) - Multi-Site / 320kb MP3
 * [⁠CYBROX](https://cybrox.pro/) - Multi-Site / 320kb MP3
 * [AMP3](https://amp3.cc/) - Multi-Site / 320kb MP3
-* [⁠AudioFetcher](https://audiofetcher.com/) - YouTube / 320kb MP3 / [Subreddit](https://www.reddit.com/r/AudioFetcherHQ/) / [Discord](https://discord.com/invite/DFZaejcJfg)
+* [⁠AudioFetcher](https://audiofetcher.com/) - YouTube / 320kb MP3 / [Discord](https://discord.gg/DFZaejcJfg)
 * [Spotisaver](https://spotisaver.net/) - YouTube / 320kb MP3
 * [YTiz](https://ytiz.xyz/) - SoundCloud / Bandcamp / 128kb AAC
 * [⁠Lossless Music Download](https://flac.music.hi.cn/) - Kuwo / MP3 / FLAC / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
@@ -1019,6 +1019,7 @@
 * [Petaporon](https://pixwlk.itch.io/petaporon) - Piano Sequencers / [Instrument Editor](https://pixwlk.itch.io/petaporon-editor)
 * [⁠Signal](https://signalmidi.app/edit) / [Discord](https://discord.com/invite/XQxzNdDJse) / [GitHub](https://github.com/ryohey/signal/) or [OnlineSequencer](https://onlinesequencer.net/) - MIDI Editors
 * [WebSynths](https://www.websynths.com/) - Browser Synthesizers
+* [⁠CZP-1](https://www.crazyphase.com/czp-1/) - Phase Distortion Synthesizer
 * [NoiseCraft](https://noisecraft.app/) - Modular Synth Builder
 * [VirtualPiano](https://virtualpiano.net/) - Browser Pianos
 * [MK-1](https://ericrosenbaum.github.io/MK-1/) - Online Sampling Keyboard
@@ -1028,7 +1029,7 @@
 * [Pantam Playground](https://www.yishama.com/virtual-pantam-playground/) - Virtual Pantam
 * [WD-1](https://www.worteldrie.com/WD5/) or [YOU.DJ](https://you.dj/) - Online DJ / Beat Creators
 * [PIXELSYNTH](https://ojack.xyz/PIXELSYNTH/) - Image to Sound Synthesizer
-* [Slowed and Reverb](https://slowedandreverb.studio/) - Make Slowed, Reverb and Remixed Songs
+* [Slowed and Reverb](https://slowedandreverb.studio/) or [Song Slower](https://songslower.com/) - Make Slowed, Reverb and Remixed Songs
 * [BeatMachine](https://beatmachine.branchpanic.me/) or [bungee](https://bungee.parabolaresearch.com/bungee-web-demo) - Audio Tempo Editors
 * [MIDI Recorder](https://midi-recorder.web.app/) - MIDI Keyboard Recorder
 

@@ -508,6 +508,7 @@
 * [CryMP](https://crymp.org/) - Crysis 1 Multiplayer Revival / [Discord](https://discord.gg/kY8hb2n) / [GitHub](https://github.com/crymp-net/)
 * [⁠Crysis Wars MP](https://crysiswarsmp.com/) - Crysis Warhead Multiplayer Revival / [Discord](https://discord.gg/RBmvztP)
 * [FXPGunZ](https://fxpgunz.com/) - GunZ Multiplayer Revival
+* [⁠Tekken 6 Native Online](https://github.com/Ekspym/Tekken6-native-online/) - Tekken 6 Port / Multiplayer Revival 
 * [OpenFusion](https://openfusion.dev/) - FusionFall Server Revival / [GitHub](https://github.com/OpenFusionProject/OpenFusion)
 * [⁠Cypress](https://github.com/PvZ-Cypress/Cypress) or [GardenGate](https://github.com/nocss42/GardenGate) / [Discord](https://discord.gg/sEs9NcUrF9) - PvZ Garden Warfare 1 + 2 and Battle for Neighborville Private Servers
 * [OpenExonaut](https://rentry.co/FMHYB64#openexonaut) - Cartoon Network's Project Exonaut Multiplayer Revival
@@ -659,12 +660,14 @@
 ## ▷ Xbox Homebrew
 
 * ⭐ **[Team Resurgent](https://rentry.co/FMHYB64#team-resurgent)** - Xbox Homebrew Tools
+* [Mr. Mario Guides](https://youtube.com/playlist?list=PL1CadovfabPvOnjblsyIFY2Rvani-zu7N) - Xbox 360 Homebrew Guides
 * [r/XboxModding](https://www.reddit.com/r/XboxModding/) or [r/XboxRetailHomebrew](https://www.reddit.com/r/XboxRetailHomebrew/) - Xbox Homebrew Subreddits
 * [r/XboxHomebrew](https://www.reddit.com/r/XboxHomebrew/) - Xbox One/Series Homebrew Subreddit
 * [Xbox 360 Stealth Servers Guide](https://rentry.co/FMHYB64#xbox-ss)
 * [Insignia](https://insignia.live/) - Original Xbox Replacement Servers / [Discord](https://discord.gg/CWkdVdc)
 * [⁠dbox.tools](https://dbox.tools/) - Xbox 360 Content Database / Requires Decompiler
 * [C-Xbox Tool](https://gbatemp.net/download/c-xbox-tool.7615/) - .XBE to ISO File Converter
+* [⁠XISO Tool](https://xiso.antangelo.com/) - XISO Image Packing / Extractor / Compressor
 
 ***
 
@@ -735,7 +738,8 @@
 * ⭐ **[PineconeMC](https://pineconemc.ru/)**, [2](https://elyprismlauncher.github.io/) / [Discord](https://discord.gg/5kcBCvnbTp) / [GitHub](https://github.com/ElyPrismLauncher/Launcher), **[Freesm Launcher](https://freesmlauncher.org/)** / [Theme Creator](https://new.freesmlauncher.org/themes) / [Telegram](https://t.me/freesmteam) / [Discord](https://discord.com/invite/6jjw4gjy4w) / [GitHub](https://github.com/FreesmTeam/FreesmLauncher) or [ShatteredPrism](https://github.com/LunaisLazier/ShatteredPrism) - Prism Launcher Forks w/ Alt Auth Server Support / Windows, macOS, Linux
 * ⭐ **[Zalith Launcher](https://www.zalithlauncher.cn/)** / [Offline](https://rentry.co/FMHYB64#zalith) / [Discord](https://discord.gg/yDDkTHp4cJ) / [GitHub](https://github.com/ZalithLauncher/ZalithLauncher2), [Mojolauncher](https://github.com/mojolauncher/mojolauncher) / [Discord](https://discord.com/invite/VHdwQFsaGX) or [FoldCraftLauncher](https://github.com/FCL-Team/FoldCraftLauncher) / [Discord](https://discord.com/invite/ffhvuXTwyV) - Java Edition for Mobile / Android
 * [HMCL](https://hmcl.huangyuhui.net/) / [GitHub](https://github.com/HMCL-dev/HMCL), [SKlauncher](https://skmedix.pl/) / [Ad Bypass](https://greasyfork.org/en/scripts/563188), [X Minecraft Launcher](https://xmcl.app/) / [Discord](https://discord.com/invite/W5XVwYY7GQ), [Quantum Launcher](https://mrmayman.github.io/quantumlauncher/) / [Discord](https://discord.com/invite/bWqRaSXar5) / [GitHub](https://github.com/Mrmayman/quantum-launcher/), [Legacy Launcher](https://llaun.ch/en), [AstralRinth](https://git.astralium.su/didirus/AstralRinth) or [PrismLauncher-Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked) - Cross-Platform Launchers
-* [LeviLauncher](https://github.com/LiteLDev/LeviLauncher) / [Mods](https://discord.gg/v5R5P4vRZk), [2](https://pkg.levimc.org/) or [Bedrock Launcher](https://bedrocklauncher.github.io/) / [GitHub](https://github.com/BedrockLauncher/BedrockLauncher) - Bedrock Launchers / [Guides](https://mcdoc.site/) / Windows
+* [LeviLauncher](https://docs.levimc.org/LeviLauncher/) / [Mods](https://discord.gg/v5R5P4vRZk), [2](https://discord.gg/VqQaC8vWz8), [3](https://pkg.levimc.org/) / [GitHub](https://github.com/LiteLDev/LeviLauncher) or [Bedrock Launcher](https://bedrocklauncher.github.io/) / [GitHub](https://github.com/BedrockLauncher/BedrockLauncher) - Bedrock Launchers / [Guides](https://mcdoc.site/) / Windows
+* [LeviLaunchroidUnlocked](https://github.com/0Sombra666/LeviLaunchroidUnlocked) - Bedrock Launcher (1.21.80+) / Android / [Mods](https://discord.gg/v5R5P4vRZk), [2](https://discord.gg/VqQaC8vWz8)
 * [Betacraft Launcher](https://betacraft.uk/) / [2](https://betacraft.ee/) / [3](https://betacraft.ovh/) / [LegacyFix](https://github.com/betacraftuk/legacyfix) or [Minecraft Legacy](https://rentry.co/FMHYB64#mc-legacy) - Legacy & Console Edition Launchers
 
 ***
@@ -887,7 +891,6 @@
 * [Porofessor](https://porofessor.gg/) - Live LoL Game Stats
 * [ProStreams](https://prostreams.gg/) - Watch Pro LoL Twitch Streams
 * [DotaBuff](https://www.dotabuff.com/), [Stratz](https://stratz.com/), [OpenDota](https://www.opendota.com/) or [Dota2ProTracker](https://www.dota2protracker.com/) - Dota 2 Stat Trackers / Hero Guides
-* [SmiteGuru](https://smite.guru/) - Smite Leaderboards
 * [RuneForge](https://runeforge.dev/) - Custom LoL Skins
 * [Deceive](https://github.com/molenzwiebel/deceive) - Appear Offline in LoL
 * [Disenchanter](https://github.com/marvinscham/disenchanter) - LoL Mass Disenchanter
@@ -897,7 +900,7 @@
 ## ▷ Fighting Tools
 
 * 🌐 **[⁠The Melee Library](https://www.meleelibrary.com/)** - Super Smash Bros. Melee Learning Resources
-* [⁠The Fighting Game Glossary](https://glossary.infil.net/) - Fighting Game Term Glossary
+* 🌐 **[⁠The Fighting Game Glossary](https://glossary.infil.net/)** - Fighting Game Term Glossary
 * [⁠FAT Online](https://fullmeter.com/fatonline), [⁠Mizuumi](https://mizuumi.wiki/) or [⁠SuperCombo](https://wiki.supercombo.gg/) - Fighting Game Wikis / Move Databases
 * [⁠DustLoop](https://www.dustloop.com/) - Guides for Arc System Works' Games / [Discord](https://discord.com/invite/d9tgMZg)
 * [⁠Melee Calculator](https://ikneedata.com/calculator.html) - Melee Frame Data Calculator
@@ -1037,7 +1040,7 @@
 * 🌐 **[Awesome Trackmania](https://github.com/EvoEsports/awesome-trackmania)** - Trackmania Resources
 * 🌐 **[ACNH.Directory](https://acnh.directory/)** or **[⁠NookNet](https://nooknet.net/)** / [Discord](https://discord.com/invite/RwNrqmH) - Animal Crossing: New Horizons Resources / Guides
 * 🌐 **[FM Scout](https://www.fmscout.com/)** - Football Manager Resources / Community
-* ⭐ **[Tactics.tools](https://tactics.tools/)** / [Discord](https://discord.com/invite/K4Z6shucH8) or [MetaTFT](https://www.metatft.com/) / [Discord](https://discord.com/invite/RqN3qPy) - Team Fight Tactic Guides, Stats, Tools, etc.
+* ⭐ **[Tactics.tools](https://tactics.tools/)** / [Discord](https://discord.com/invite/K4Z6shucH8) or [MetaTFT](https://www.metatft.com/) / [Discord](https://discord.com/invite/RqN3qPy) - Teamfight Tactics Guides, Stats, Tools, etc.
 * [⁠Elden Ring Wiki](https://eldenring.wiki.gg/) - Elden Ring Wiki / Encyclopedia
 * [Factorio Wiki](https://wiki.factorio.com/) - Factorio Info Database / Wiki
 * [Rust Clash](https://wiki.rustclash.com/) - Rust Info Database / Wiki
@@ -1099,7 +1102,6 @@
 * ⭐ **[CSNADES](https://csnades.gg/)** or [CS2Util](https://www.cs2util.com/) - CS2 Nade Lineups
 * [CSGO Trader](https://csgotrader.app/) - CS:GO Trading Enhancements
 * [CS2 Weapon Spreadsheet](https://docs.google.com/spreadsheets/d/11tDzUNBq9zIX6_9Rel__fdAUezAQzSnh5AVYzCP060c/) - Weapon Stats / Prices
-* [ArminC-AutoExec](https://github.com/ArmynC/ArminC-AutoExec) - ArminC's CS2 Config
 * [CS2 Browser](https://cs2browser.net/) or [CS2 Server Picker](https://github.com/FN-FAL113/cs2-server-picker) - Counter-Strike 2 Server Browser
 
 ***
@@ -1212,6 +1214,7 @@
 * [RobloxDen](https://robloxden.com/) or [Rocodes](https://rocodes.gg/) - Track Roblox Promo Codes
 * [Roblox Tools](https://thecsdev.com/tool/roblox-tools/) - Roblox Assets Downloader
 * [Dripzels](https://dripzels.com/) - Preview Avatar Clothing
+* [⁠Fleasion](https://github.com/fleasion/Fleasion) - Real-Time Roblox Game Asset Replacement / [Discord](https://discord.gg/fleasion)
 * [Roblox Web APIs](https://github.com/matthewdean/roblox-web-apis) - Roblox APIs
 
 ***

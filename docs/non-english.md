@@ -566,6 +566,7 @@
 * [Burning Series](https://burningseries.ac/), [2](https://burningseries.cx/) - TV / Dub / 720p
 * [Anime-Loads](https://www.anime-loads.org/) - Anime / Dub / 1080p
 * [Aniworld](https://aniworld.to) - Anime / Sub / Dub / 720p / [Status](https://aniworld.domains/) / [Discord](https://discord.com/invite/xTkw6292Uj)
+* [FireAnime](https://fireani.me/) - Anime / Sub
 * [⁠Fireani](https://fireani.me/app) - Anime Android App
 * [⁠TOGGO](https://www.toggo.de/) - Cartoons
 * [dokustreams](https://dokustreams.de/) or [dctp.tv](https://www.dctp.tv/) - Documentaries
@@ -682,7 +683,7 @@
 * ⭐ **[VegaMovies](https://1vegamovies.baby/)** - Movies / TV / Anime / 4K / 1080p / [Telegram](https://telegram.dog/vega_officials)
 * ⭐ **[UHDMovies](https://modlist.in/?type=uhdmovies)** - Movies / 4K
 * ⭐ **[HDHub4u](https://hdhub4u.bi/)** - Movies / TV / 1080p / 4K
-* ⭐ **[MoviesMod](https://mmodlist.org/?type=hollywood)** - Movies / TV / Sub / Dub / 1080p
+* ⭐ **[MoviesMod](https://mmodlist.org/?type=hollywood)** - Movies / TV / Sub / Dub / 1080p / [Bypass](https://greasyfork.org/en/scripts/474747)
 * ⭐ **[ToonWorld4All](https://toonworld4all.me/)** - Anime / Cartoon / Geoblocked
 * ⭐ **[ToonsHub](https://www.toonshub.my.id/)** - Anime / Dub / 1080p / [Telegram](https://t.me/s/toonshubupdates) / [Discord](https://dsc.gg/toonshub)
 * ⭐ **[TamilMV](https://www.1tamilmv.lease/)** - Movies / TV / Anime / Sub / Dub / 4K / 1080p / Indian Languages
@@ -741,7 +742,8 @@
 * [Cloudy](https://cloudy.pk/) - Movies / TV / Cartoons / Sub / Dub / 720p / [Telegram](https://t.me/cloudypkmovies)
 * [⁠MX Player on Prime](https://www.primevideo.com/collection/streamfree?tr=in) - Movies / TV / Free w/ Ads
 * [IndianCine](https://indiancine.ma/) - Indian Short / Classic Movies
-* [LuffyTV](https://luffytv.live/), [2](https://luffytv.online/) - Sub / Dub / [Discord](https://discord.gg/SdFB3HxDH5)
+* [LuffyTV](https://luffytv.live/), [2](https://luffytv.online/) - Anime / [Discord](https://discord.gg/SdFB3HxDH5)
+* [⁠Anixo](https://anixohindi.cc/) - Anime
 * [1XAnime](https://1xanimes.com/) - Anime / [Telegram](https://t.me/onexanimes)
 * [Aniflix](https://aniflix.uno/) - Anime / [Telegram](https://t.me/Aniflix_Anime_Requests)
 * [desidubanime](https://www.desidubanime.me/) - Anime
@@ -1570,6 +1572,7 @@
 * [kumanga](https://www.kumanga.com/) - Manga / Some NSFW
 * [absorbiendomangas2](https://absorbiendomangas2.blogspot.com/) - Manga
 * [lexmangas](https://www.lexmangas.com/) - Manga
+* [⁠MangaOni](https://manga-oni.com/) - Manga / Some NSFW
 * [Scanlation](https://olympusxyz.com/) - Manga
 * [mangavault](https://mangavault.lat/) - Manga / Some NSFW / [Discord](https://discord.com/invite/GEzeWRRShM)
 * [⁠Spnmanga](https://www.spnmanga.com/) - Manga

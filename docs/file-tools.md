@@ -6,7 +6,7 @@
 
 # ► File Tools
 
-* ↪️ **[File Scanners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_file_scanners)**
+* ↪️ **[File Scanners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_online_scanners)**
 * ⭐ **[Krokiet](https://github.com/qarmin/czkawka/blob/master/krokiet/README.md)**, [czkawka](https://github.com/qarmin/czkawka) or [dupeGuru](https://dupeguru.voltaicideas.net/) - Duplicate File Finders
 * [UnLock IT](https://emcosoftware.com/unlock-it/download) or [Lock Hunter](https://lockhunter.com/) - File Unlocker / Deleter
 * [Icaros](https://github.com/Xanashi/Icaros) - Add Explorer Thumbnails to any Video Format
@@ -70,6 +70,7 @@
 * ⭐ **[Aconvert](https://www.aconvert.com/)** - Online / Various Converters / 40MB / Web
 * [⁠Docling](https://docling-project.github.io/docling/) / [GitHub](https://github.com/docling-project/docling) or [Pandoc](https://pandoc.org/) / [GitHub](https://github.com/jgm/pandoc) - PDF / Documents CLI Converters
 * [ConvertCSV](https://www.convertcsv.com/) - Online CSV Data Conversion / Web
+* [Filee](https://filee.sh/) - Offline / Drag & Drop File Converter / Windows, macOS, Linux / [GitHub](https://github.com/KnifeLemon/Filee)
 * [Encoding Converter](https://encoding-converter.netlify.app/) - Online File Encoding Converter / Web
 * [Deark](https://entropymine.com/deark/) - Decode and Convert Files / Windows, macOS, Linux / [GitHub](https://github.com/jsummers/deark)
 * [text2img](https://master.ayra.ch/text2img/) - Local NFO Files to Image Converter / Web / [GitHub](https://github.com/AyrA/text2img)
