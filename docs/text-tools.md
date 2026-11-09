@@ -174,7 +174,7 @@
 * [typing.academy](https://www.typing.academy/) or [⁠VocaType](https://vocatype.app/) - Typing Lessons
 * [TypeRacer](https://play.typeracer.com/), [ZType](https://zty.pe/), [TypeRush](https://www.typerush.com/) or [ARRRType](https://www.arrrtype.com/) - Typing Games
 * [NGram Type](https://ranelpadon.github.io/ngram-type/), [KeyZen MAB](https://adamgradzki.com/keyzen-mab/) or [Keyzen Colemak](https://ranelpadon.github.io/keyzen-colemak-dh/) - Touch Typing Tests
-* [⁠Typersguild](https://typersguild.com/), [TypeLit.io](https://www.typelit.io/) or [Entertrained](https://entertrained.app/) - Book Typing Tests
+* [⁠Typersguild](https://typersguild.com/), [TypeBook](https://typebook.lol/), [TypeLit.io](https://www.typelit.io/) or [Entertrained](https://entertrained.app/) - Practice Typing with Books
 * [TypingStudy](https://www.typingstudy.com/) or [TypeFast](https://typefast.io/) - Multilingual Touch Typing Tests
 * [10fastfingers](https://10fastfingers.com/) - Typing Competitions / [Discord](https://discord.gg/4KypVEM)
 
@@ -247,7 +247,7 @@
 
 ## ▷ Whiteboards / Handwritten
 
-* ⭐ **[Excalidraw](https://excalidraw.com/)** - Whiteboard / [Sharing](https://excalihub.dev/)
+* ⭐ **[Excalidraw](https://excalidraw.com/)** - Whiteboard / [Sharing](https://excalihub.dev/) / [Github](https://github.com/excalidraw/excalidraw)
 * ⭐ **[OpenBoard](https://openboard.ch/en)** - Whiteboard
 * [Saber](https://saber.adil.hanney.org/) - Handwritten Notes / All Platforms / [GitHub](https://github.com/saber-notes/saber)
 * [Butterfly](https://butterfly.linwood.dev/) - Handwritten Notes / All Platforms / [Discord](https://discord.com/invite/97zFtYN) / [GitHub](https://github.com/LinwoodDev/Butterfly)
@@ -486,6 +486,7 @@
 * [MarkdownTools](https://www.markdowntools.com/)
 * [MarkLiveEdit](https://markdownlivepreview.dev/)
 * [Glow](https://github.com/charmbracelet/glow)
+* [⁠Tinta](https://github.com/oipoistar/tinta)
 * [MarkdownLivePreview](https://markdownlivepreview.com/)
 * [Vrite](https://editor.vrite.io/)
 * [MindForger](https://www.mindforger.com/)
@@ -608,7 +609,7 @@
 ## ▷ Font / Text Generators
 
 * ⭐ **[FontoGen](https://github.com/SerCeMan/fontogen)** or [⁠Refont](https://refont.ai/) - Custom AI Font Generators
-* ⭐ **[Make WordArt](https://www.makewordart.com/)**, [FlameText](https://www.flamingtext.com/), [MakeText](https://maketext.io/), [TextGiraffe](https://www.textgiraffe.com/), [Text Pro](https://textpro.me/) or [CoolText](https://cooltext.com/) - WordArt Generators / 3D Text
+* ⭐ **[Make WordArt](https://www.makewordart.com/)**, [TitleArt](https://titleart.dvy.io/), [FlameText](https://www.flamingtext.com/), [MakeText](https://maketext.io/), [TextGiraffe](https://www.textgiraffe.com/), [Text Pro](https://textpro.me/) or [CoolText](https://cooltext.com/) - WordArt Generators / 3D Text
 * [Polona Typo](https://typo.polona.pl/en/) - Generate WordArt from Book, Poster, & Map Letters
 * [⁠PixelFrame](https://pixelframe.design/) - Custom Pop Culture Font / Graphic Generator
 * [⁠gradient text generator](https://lovewich.neocities.org/widgets/gradient-text), [Text Color Fader](https://patorjk.com/text-color-fader/) or [⁠Colorize FUN](https://colorize.fun/) - Rainbow Text Generator
@@ -643,7 +644,6 @@
 * [Cool Fonts Online](https://coolfont.org/)
 * [⁠Discord Fonts](https://discord-fonts.com/)
 * [Aesthetic Font Generator](https://www.tesms.net/)
-* [Text-Generator](https://text-generator.app/)
 * [FontGenOnline](https://fontgenonline.com/)
 * [TextEditor](https://texteditor.com/)
 * [CuteFontCopy](https://cutefontcopy.com/)

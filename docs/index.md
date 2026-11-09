@@ -8,8 +8,8 @@ hero:
   name: Free Media Heck Yeah
   tagline: The largest collection of free stuff on the internet! Unofficial instance, forked from fmhy.net.
   announcement:
-    title: October Updates 🎃
-    link: /posts/oct-2026
+    title: November Updates 🍂
+    link: /posts/nov-2026
   image:
     src: test.png
     alt: FMHY Icon
